@@ -51,7 +51,7 @@ li a:active {
 
 .row:after {
     content: "";
-    display:column;
+    display:column1;
     clear: both;
 }
 .column1 {
