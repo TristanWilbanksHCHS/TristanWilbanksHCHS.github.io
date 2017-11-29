@@ -54,7 +54,20 @@ li a:active {
     display:column1;
     clear: both;
 }
-
+.column1 {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    height: 200px;
+	font-family: 'Roboto', sans-serif;
+}
+.column2 {
+    float: left;
+    width: 100%;
+    padding: 10px;
+    height: 200px;
+	font-family: 'Roboto', sans-serif;
+}
 .column {
     float: left;
     width: 50%;
